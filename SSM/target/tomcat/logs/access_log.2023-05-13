@@ -1,0 +1,3 @@
+0:0:0:0:0:0:0:1 - - [13/May/2023:00:11:32 +0800] "GET /SSM/api/getlatestid HTTP/1.1" 200 1 http-bio-8080-exec-10 0
+0:0:0:0:0:0:0:1 - - [13/May/2023:00:11:32 +0800] "GET /SSM/api/getcourselist HTTP/1.1" 200 193 http-bio-8080-exec-9 2
+0:0:0:0:0:0:0:1 - - [13/May/2023:00:11:32 +0800] "GET /SSM/api/getlocation HTTP/1.1" 200 453 http-bio-8080-exec-8 3
